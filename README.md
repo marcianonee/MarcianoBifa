@@ -1,7 +1,3 @@
-
-                        ![WhatsApp Image 2022-09-30 at 01 41 01 - Copia](https://github.com/user-attachments/assets/c249da3d-6dd2-4b44-9c7e-510850c354ca)
-
-
 # Olá, eu sou o Marciano! 👋
 
 Sou estudante de **Engenharia de Computação na UFSC** e um desenvolvedor apaixonado por construir soluções que unem o rigor da engenharia com a leveza do design moderno. 
