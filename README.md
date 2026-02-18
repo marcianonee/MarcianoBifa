@@ -19,7 +19,7 @@ Como acadêmico de Engenharia de Computação, combino o conhecimento teórico d
 ---
 
 ### 📫 Vamos nos conectar?
-- **LinkedIn:** [[[(https://www.linkedin.com/in/marciano-bifa-c%C3%B3-1396232a6/)](https://www.linkedin.com/in/marciano-bifa-c%C3%B3-1396232a6/)
+- **LinkedIn:** (https://www.linkedin.com/in/marciano-bifa-c%C3%B3-1396232a6/)](https://www.linkedin.com/in/marciano-bifa-c%C3%B3-1396232a6/)
 - **E-mail:** marcianonee22@gmail.com
 
 > "A engenharia constrói a base, e a tecnologia dá a vida."
